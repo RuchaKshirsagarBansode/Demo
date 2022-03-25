@@ -1,0 +1,19 @@
+Need to Install node and Npm
+
+install typescript 
+ npm install -g typescript
+
+ and check installed or not
+ tsc -v
+
+ How to run file in command prompt
+ tsc filename.ts
+
+
+ the its automatically transpile
+ and generate js file
+
+ then run js file in command promt 
+ node filename.js
+ 
+ 
